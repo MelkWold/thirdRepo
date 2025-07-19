@@ -1,0 +1,1 @@
+```This repo will contain a summary of the main HTML concepts that we will discuss in class. By the completion of this project, the document will be a useful study guide and a quick reference. ```
