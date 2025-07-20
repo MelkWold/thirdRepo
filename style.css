@@ -1,5 +1,12 @@
+#websiteLogo {
+    width: 150 px;
+    height: 200px;
+    border-radius: 10px;
+    padding-top:20px;
+}
+
 body {
-    margin: 50px;
+    margin: 75px;
     font-size: 22px;
     background: linear-gradient(#e5e7e8, #cfefb0);
 
