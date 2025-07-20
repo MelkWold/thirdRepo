@@ -4,11 +4,13 @@ body {
     background: linear-gradient(#e5e7e8, #cfefb0);
 
 }
-.headers {
-    color: blue;
-}
+
 .firstimage {
     width: 750px;
     margin-left: 500px;
     align-items: center;
+}
+h1, h2, h3, h4 {
+text-shadow: 0 0 1bx black;
+color: blue
 }
