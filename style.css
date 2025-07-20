@@ -1,0 +1,14 @@
+body {
+    margin: 50px;
+    font-size: 22px;
+    background: linear-gradient(#e5e7e8, #cfefb0);
+
+}
+.headers {
+    color: blue;
+}
+.firstimage {
+    width: 750px;
+    margin-left: 500px;
+    align-items: center;
+}
