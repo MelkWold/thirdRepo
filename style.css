@@ -1,10 +1,16 @@
-#websiteLogo {
-    width: 150 px;
-    height: 200px;
-    border-radius: 10px;
-    padding-top:10px;
+#headerContainer {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+    padding: 10px;
 }
+#logo {
+    width: 150px;
+    height: 150px;
+    padding: 5px
 
+}
 body {
     margin: 75px;
     font-size: 22px;
